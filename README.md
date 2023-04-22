@@ -3,6 +3,8 @@ Power BI (PBI) is embeded into ASP.NET webforms as AppOwnsData model
 
 The report is embedded using the "Service Principal" method and not the "Master User" method
 
+## Archiving this repository as Microsoft encourages to use new ASP.NET technologies - MVC and Blazor. For webforms specifically, Blazor is the recommend one - https://learn.microsoft.com/en-us/dotnet/architecture/blazor-for-web-forms-developers/migration
+
 I've created this sample solution in Visual Studio 2017 and the sample report is taken from https://github.com/microsoft/powerbi-desktop-samples/tree/master/2018
 
 For this demo, I've used the "2018SU04 Blog Demo - April.pbix" file
